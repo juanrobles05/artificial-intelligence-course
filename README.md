@@ -2,4 +2,4 @@
 
 Este repositorio reúne el material, actividades y evaluaciones del curso de Inteligencia Artificial.
 
-Los quices del curso se guardarán en la carpeta [activities](activities/).
+Los quices del curso se guardarán en la carpeta [Activities](Activities/).
