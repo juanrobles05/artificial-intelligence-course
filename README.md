@@ -1,5 +1,15 @@
 # Artificial Intelligence Course
 
-Este repositorio reúne el material, actividades y evaluaciones del curso de Inteligencia Artificial.
+Material, notebooks y actividades del curso de Inteligencia Artificial.
 
-Los quices del curso se guardarán en la carpeta [Activities](Activities/).
+## Notebooks
+
+Las prácticas y desafíos están organizados por lecture:
+
+[Notebooks](Notebooks/).
+
+## Actividades
+
+Los quices y demás actividades se encuentran en la carpeta [activities](activities/).
+
+- [Quiz 01](activities/quiz01.md)
